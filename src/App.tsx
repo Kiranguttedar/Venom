@@ -20,6 +20,7 @@ function App() {
             Your one-stop shop for top-tier products and services.
           </p>
           <button className="cta-button">Explore Now</button>
+          <button className="cta-button">Click Now</button>
         </div>
       </header>
 
